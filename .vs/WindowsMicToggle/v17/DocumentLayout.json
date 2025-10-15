@@ -3,8 +3,31 @@
   "WorkspaceRootPath": "D:\\Develop\\OtherProjects\\WindowsMicToggle\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C6A4760-0C7E-401C-9FE1-CA5BB8D6E848}|WindowsMicToggle.csproj|d:\\develop\\otherprojects\\windowsmictoggle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4C6A4760-0C7E-401C-9FE1-CA5BB8D6E848}|WindowsMicToggle.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4C6A4760-0C7E-401C-9FE1-CA5BB8D6E848}|WindowsMicToggle.csproj|d:\\develop\\otherprojects\\windowsmictoggle\\services\\micservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6A4760-0C7E-401C-9FE1-CA5BB8D6E848}|WindowsMicToggle.csproj|solutionrelative:services\\micservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6A4760-0C7E-401C-9FE1-CA5BB8D6E848}|WindowsMicToggle.csproj|d:\\develop\\otherprojects\\windowsmictoggle\\services\\hotkeyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6A4760-0C7E-401C-9FE1-CA5BB8D6E848}|WindowsMicToggle.csproj|solutionrelative:services\\hotkeyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|WindowsMicToggle||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6A4760-0C7E-401C-9FE1-CA5BB8D6E848}|WindowsMicToggle.csproj|d:\\develop\\otherprojects\\windowsmictoggle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6A4760-0C7E-401C-9FE1-CA5BB8D6E848}|WindowsMicToggle.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6A4760-0C7E-401C-9FE1-CA5BB8D6E848}|WindowsMicToggle.csproj|d:\\develop\\otherprojects\\windowsmictoggle\\forms\\overlayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6A4760-0C7E-401C-9FE1-CA5BB8D6E848}|WindowsMicToggle.csproj|solutionrelative:forms\\overlayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6A4760-0C7E-401C-9FE1-CA5BB8D6E848}|WindowsMicToggle.csproj|d:\\develop\\otherprojects\\windowsmictoggle\\forms\\windowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6A4760-0C7E-401C-9FE1-CA5BB8D6E848}|WindowsMicToggle.csproj|solutionrelative:forms\\windowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6A4760-0C7E-401C-9FE1-CA5BB8D6E848}|WindowsMicToggle.csproj|d:\\develop\\otherprojects\\windowsmictoggle\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{4C6A4760-0C7E-401C-9FE1-CA5BB8D6E848}|WindowsMicToggle.csproj|solutionrelative:properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,23 +37,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "D:\\Develop\\OtherProjects\\WindowsMicToggle\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\Develop\\OtherProjects\\WindowsMicToggle\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentIndex": 4,
+              "Title": "OverlayForm.cs",
+              "DocumentMoniker": "D:\\Develop\\OtherProjects\\WindowsMicToggle\\Forms\\OverlayForm.cs",
+              "RelativeDocumentMoniker": "Forms\\OverlayForm.cs",
+              "ToolTip": "D:\\Develop\\OtherProjects\\WindowsMicToggle\\Forms\\OverlayForm.cs",
+              "RelativeToolTip": "Forms\\OverlayForm.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAIAywEEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T18:23:43.632Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2025-10-15T18:55:25.156Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Develop\\OtherProjects\\WindowsMicToggle\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Develop\\OtherProjects\\WindowsMicToggle\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAmwFcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T18:53:30.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WindowForm.cs",
+              "DocumentMoniker": "D:\\Develop\\OtherProjects\\WindowsMicToggle\\Forms\\WindowForm.cs",
+              "RelativeDocumentMoniker": "Forms\\WindowForm.cs",
+              "ToolTip": "D:\\Develop\\OtherProjects\\WindowsMicToggle\\Forms\\WindowForm.cs",
+              "RelativeToolTip": "Forms\\WindowForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T18:54:10.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WindowsMicToggle",
+              "DocumentMoniker": "D:\\Develop\\OtherProjects\\WindowsMicToggle\\WindowsMicToggle.csproj",
+              "RelativeDocumentMoniker": "WindowsMicToggle.csproj",
+              "ToolTip": "D:\\Develop\\OtherProjects\\WindowsMicToggle\\WindowsMicToggle.csproj",
+              "RelativeToolTip": "WindowsMicToggle.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-15T18:33:35.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MicService.cs",
+              "DocumentMoniker": "D:\\Develop\\OtherProjects\\WindowsMicToggle\\Services\\MicService.cs",
+              "RelativeDocumentMoniker": "Services\\MicService.cs",
+              "ToolTip": "D:\\Develop\\OtherProjects\\WindowsMicToggle\\Services\\MicService.cs",
+              "RelativeToolTip": "Services\\MicService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAqwD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T18:30:19.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HotkeyService.cs",
+              "DocumentMoniker": "D:\\Develop\\OtherProjects\\WindowsMicToggle\\Services\\HotkeyService.cs",
+              "RelativeDocumentMoniker": "Services\\HotkeyService.cs",
+              "ToolTip": "D:\\Develop\\OtherProjects\\WindowsMicToggle\\Services\\HotkeyService.cs",
+              "RelativeToolTip": "Services\\HotkeyService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwCcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T18:30:08.196Z",
+              "EditorCaption": ""
             }
           ]
         }
