@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "D:\\Develop\\OtherProjects\\WindowsMicToggle\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C6A4760-0C7E-401C-9FE1-CA5BB8D6E848}|WindowsMicToggle.csproj|d:\\develop\\otherprojects\\windowsmictoggle\\services\\micservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C6A4760-0C7E-401C-9FE1-CA5BB8D6E848}|WindowsMicToggle.csproj|solutionrelative:services\\micservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C6A4760-0C7E-401C-9FE1-CA5BB8D6E848}|WindowsMicToggle.csproj|d:\\develop\\otherprojects\\windowsmictoggle\\services\\hotkeyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C6A4760-0C7E-401C-9FE1-CA5BB8D6E848}|WindowsMicToggle.csproj|solutionrelative:services\\hotkeyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|WindowsMicToggle||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
@@ -22,12 +14,23 @@
       "RelativeMoniker": "D:0:0:{4C6A4760-0C7E-401C-9FE1-CA5BB8D6E848}|WindowsMicToggle.csproj|solutionrelative:forms\\overlayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4C6A4760-0C7E-401C-9FE1-CA5BB8D6E848}|WindowsMicToggle.csproj|d:\\develop\\otherprojects\\windowsmictoggle\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4C6A4760-0C7E-401C-9FE1-CA5BB8D6E848}|WindowsMicToggle.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4C6A4760-0C7E-401C-9FE1-CA5BB8D6E848}|WindowsMicToggle.csproj|d:\\develop\\otherprojects\\windowsmictoggle\\forms\\windowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C6A4760-0C7E-401C-9FE1-CA5BB8D6E848}|WindowsMicToggle.csproj|solutionrelative:forms\\windowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C6A4760-0C7E-401C-9FE1-CA5BB8D6E848}|WindowsMicToggle.csproj|d:\\develop\\otherprojects\\windowsmictoggle\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
-      "RelativeMoniker": "D:0:0:{4C6A4760-0C7E-401C-9FE1-CA5BB8D6E848}|WindowsMicToggle.csproj|solutionrelative:properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+      "AbsoluteMoniker": "D:0:0:{4C6A4760-0C7E-401C-9FE1-CA5BB8D6E848}|WindowsMicToggle.csproj|d:\\develop\\otherprojects\\windowsmictoggle\\services\\micservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6A4760-0C7E-401C-9FE1-CA5BB8D6E848}|WindowsMicToggle.csproj|solutionrelative:services\\micservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6A4760-0C7E-401C-9FE1-CA5BB8D6E848}|WindowsMicToggle.csproj|d:\\develop\\otherprojects\\windowsmictoggle\\services\\hotkeyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6A4760-0C7E-401C-9FE1-CA5BB8D6E848}|WindowsMicToggle.csproj|solutionrelative:services\\hotkeyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6A4760-0C7E-401C-9FE1-CA5BB8D6E848}|WindowsMicToggle.csproj|d:\\develop\\otherprojects\\windowsmictoggle\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,24 +40,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "WindowsMicToggle",
+              "DocumentMoniker": "D:\\Develop\\OtherProjects\\WindowsMicToggle\\WindowsMicToggle.csproj",
+              "RelativeDocumentMoniker": "WindowsMicToggle.csproj",
+              "ToolTip": "D:\\Develop\\OtherProjects\\WindowsMicToggle\\WindowsMicToggle.csproj",
+              "RelativeToolTip": "WindowsMicToggle.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-15T18:33:35.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\Develop\\OtherProjects\\WindowsMicToggle\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "D:\\Develop\\OtherProjects\\WindowsMicToggle\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-15T19:46:15.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "OverlayForm.cs",
               "DocumentMoniker": "D:\\Develop\\OtherProjects\\WindowsMicToggle\\Forms\\OverlayForm.cs",
               "RelativeDocumentMoniker": "Forms\\OverlayForm.cs",
               "ToolTip": "D:\\Develop\\OtherProjects\\WindowsMicToggle\\Forms\\OverlayForm.cs",
               "RelativeToolTip": "Forms\\OverlayForm.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAIAywEEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAIwEMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T18:55:25.156Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Develop\\OtherProjects\\WindowsMicToggle\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -67,45 +95,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "WindowForm.cs",
               "DocumentMoniker": "D:\\Develop\\OtherProjects\\WindowsMicToggle\\Forms\\WindowForm.cs",
               "RelativeDocumentMoniker": "Forms\\WindowForm.cs",
               "ToolTip": "D:\\Develop\\OtherProjects\\WindowsMicToggle\\Forms\\WindowForm.cs",
               "RelativeToolTip": "Forms\\WindowForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T18:54:10.607Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WindowsMicToggle",
-              "DocumentMoniker": "D:\\Develop\\OtherProjects\\WindowsMicToggle\\WindowsMicToggle.csproj",
-              "RelativeDocumentMoniker": "WindowsMicToggle.csproj",
-              "ToolTip": "D:\\Develop\\OtherProjects\\WindowsMicToggle\\WindowsMicToggle.csproj",
-              "RelativeToolTip": "WindowsMicToggle.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-10-15T18:33:35.21Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "MicService.cs",
               "DocumentMoniker": "D:\\Develop\\OtherProjects\\WindowsMicToggle\\Services\\MicService.cs",
               "RelativeDocumentMoniker": "Services\\MicService.cs",
               "ToolTip": "D:\\Develop\\OtherProjects\\WindowsMicToggle\\Services\\MicService.cs",
               "RelativeToolTip": "Services\\MicService.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAmwD0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAqwDEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T18:30:19.73Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "HotkeyService.cs",
               "DocumentMoniker": "D:\\Develop\\OtherProjects\\WindowsMicToggle\\Services\\HotkeyService.cs",
               "RelativeDocumentMoniker": "Services\\HotkeyService.cs",
